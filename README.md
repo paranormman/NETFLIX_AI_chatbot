@@ -5,4 +5,4 @@ Here Netflix Ai chatbot is integrated with telegram using API which is used to s
 # Astropy.py
 we have to run this python file and execute it in the telegram.
 
-once the csv files in the folder are placed together them=n the chatbot starts working inthe telegram app and lends the output for the requested input.
+once the csv files in the folder are placed together then the chatbot starts working inthe telegram app and lends the output for the requested input.
